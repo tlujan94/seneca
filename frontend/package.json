@@ -1,0 +1,19 @@
+{
+  "name": "seneca-frontend",
+  "version": "1.0.0",
+  "description": "frontend for seneca task manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlujan94/seneca.git"
+  },
+  "author": "Thomas Lujan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlujan94/seneca/issues"
+  },
+  "homepage": "https://github.com/tlujan94/seneca#readme"
+}
